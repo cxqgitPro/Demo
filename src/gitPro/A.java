@@ -3,7 +3,7 @@ package gitPro;
 public class A {
 
 	public A() {
-		System.out.println("cxq");
+		System.out.println("陈向前");
 	}
 	
 }
